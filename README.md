@@ -1,4 +1,4 @@
 # The Freedom Layer
 
-- IB
+Untraceable. Unbreakable. Unapologetic.
 
