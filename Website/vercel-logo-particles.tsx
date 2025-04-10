@@ -381,8 +381,6 @@ export default function Component() {
         className={`w-full min-h-screen bg-black text-white p-8 transition-opacity duration-500 ${showInfo ? 'opacity-100' : 'opacity-0'}`}
       >
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-5xl font-bold mb-10 text-white">The Freedom Layer</h2>
-          
           <div className="mb-12 backdrop-blur-sm bg-gray-900/30 rounded-xl p-6 border border-gray-800 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
             <h3 className="text-2xl font-semibold mb-4 text-white">Secure Messaging</h3>
             <p className="text-lg mb-4 text-gray-200 leading-relaxed">
